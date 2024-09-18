@@ -13,8 +13,14 @@ cd ~
 git@github.com:Harleyqueer/mkc.git
 ```
 
+3. Change perm.
 
-3. Now create an alias for it.
+```bash
+cd mkc && chmod +x mkc.sh
+```
+
+
+4. Now create an alias for it.
 
 - zsh:
 
